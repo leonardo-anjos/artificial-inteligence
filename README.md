@@ -4,3 +4,4 @@
 - Expert System
 - [Fuzzy Logic](https://github.com/leonardo-anjos/artificial-inteligence/tree/logic-fuzzy)
 - [Naive Bayes](https://github.com/leonardo-anjos/artificial-inteligence/tree/naive-bayes)
+- [Algorítimo Genético](https://github.com/leonardo-anjos/artificial-inteligence/tree/algoritimo-genetico)
