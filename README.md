@@ -1,11 +1,4 @@
 
-## Artificial Inteligence
+## CCO06021-ARTIFICIAL INTELIGENCE - 15204NA 2018.2 
 
-***machine learning algorithms***
-
-- [Expert System](https://github.com/leonardo-anjos/artificial-inteligence/tree/expert-system)
-- [Fuzzy Logic](https://github.com/leonardo-anjos/artificial-inteligence/tree/logic-fuzzy)
-- [Naive Bayes](https://github.com/leonardo-anjos/artificial-inteligence/tree/naive-bayes)
-- [Genetic Algorithm](https://github.com/leonardo-anjos/artificial-inteligence/tree/genetic-algorithm)
-- [K-Nearest Neighbors - KNN](https://github.com/leonardo-anjos/artificial-inteligence/tree/k-nearest-neighbors)
-- [Perceptron Simple](https://github.com/leonardo-anjos/artificial-inteligence/tree/perceptron-simple)
+***this are some examples of machine learning algorithms implements on course artificial inteligence***
