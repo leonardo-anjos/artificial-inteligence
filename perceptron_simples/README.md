@@ -8,6 +8,7 @@ this algorithm solve the problem of classification dermatology
 <!-- https://juliocprocha.wordpress.com/2017/08/14/perceptron-em-python/ -->
 
 @see <br>
-https://archive.ics.uci.edu/ml/datasets/dermatology
+https://archive.ics.uci.edu/ml/datasets/dermatology <br>
+https://www.bogotobogo.com/python/scikit-learn/Perceptron_Model_with_Iris_DataSet.php
 
 ![artificial network](https://upload.wikimedia.org/wikipedia/commons/6/60/ArtificialNeuronModel_english.png)
