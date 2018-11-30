@@ -148,7 +148,7 @@ def x2(x1, w):
 
 x_2 = np.asarray(x2(x1,w))
 
-# loda data to do tests with scikit and compare
+# loda data to do tests with scikit and compare results
 dataset = pd.read_csv("./data/dermatology_dataset_normalized.csv")
 
 obs = 1000
