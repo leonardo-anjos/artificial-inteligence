@@ -12,18 +12,6 @@
 
 # In[50]:
 
-
-"""
-Perceptron Algorithm from Scratch.
-
-The first part of this code is training and testing a Perceptron algorithm 
-from scratch.
-
-The final part compares the results from a scikit-learn Perceptron with the 
-algorithm implemented from scratch in the first part.
-"""
-
-
 # impoort libs
 import pandas as pd
 import numpy as np
